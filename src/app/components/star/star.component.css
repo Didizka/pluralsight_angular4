@@ -1,0 +1,11 @@
+.crop {
+    overflow: hidden;
+}
+
+.rating {
+    width: 90px;
+}
+
+div {
+    cursor: pointer;
+}
